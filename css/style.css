@@ -88,6 +88,10 @@ body{
 .saved i:first-child{
     margin-right: 17px;
 }
+.imges .img .saved{
+    transition: all .3s ease-in-out;
+}
+
 .imges .img:hover .saved{
     display: flex;
     justify-content: center;
